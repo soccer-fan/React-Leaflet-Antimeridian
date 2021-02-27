@@ -1,0 +1,27 @@
+{
+  "name": "react-leaflet-antimeridian",
+  "version": "1.0.0",
+  "description": "React-Leaflet adaptor for the Leaflet-Antimeridian package, brings meridian-spanning WrappedPolylines as first-class React components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Leaflet",
+    "Antimeridian"
+  ],
+  "author": "Mark Mitchell",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "leaflet.antimeridian": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-leaflet": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soccer-fan/React-Leaflet-Antimeridian.git"
+  }
+}
